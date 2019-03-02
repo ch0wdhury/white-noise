@@ -1,0 +1,111 @@
+html, body {
+	overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #050406;
+	color: #fff;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+	transition: .5s ease;
+}
+/* Header Section Starts Here */
+header {
+	padding: 15px 0;
+}
+.custom_brand img {
+	width: 35%;
+}
+/* Header Section Ends Here */
+/* Banner Section Starts Here */
+.banner {
+	padding: 25px 0;
+}
+.banner_text h1 {
+	font-weight: 100;
+	font-size: 80px;
+}
+/* Banner Section Ends Here */
+/* App Feature Section Starts Here */
+.feature {
+	padding: 100px 0;
+}
+.for_bg {
+	background-color: #212121;
+}
+.feature_image {
+	padding: 40px 0;
+	vertical-align: middle;
+}
+.feature_text {
+	vertical-align: middle;
+}
+.feature_text h1 {
+	font-size: 40px;
+	font-weight: 200;
+	color: #9F9E9F;
+	margin: 0;
+}
+.feature_text p {
+	padding: 10px 0;
+	font-size: 25px;
+	padding-bottom: 0;
+	margin: 0;
+}
+/* App Feature Section Ends Here */
+/* App Download Section Starts Here */
+.download {
+	padding: 100px 0;
+}
+.app_download {
+	padding: 140px 0;
+}
+.app_download a img {
+	margin: 50px 0;
+}
+/* App Download Section Ends Here */
+/* Sign Up Section STarts Here */
+.signup {
+	padding: 100px 0;
+}
+.signup_content h1 {
+	font-size: 30px;
+	font-weight: 200;
+}
+.custom_field {
+	height: 50px;
+	border-radius: 15px;
+	font-size: 25px;
+	font-weight: 200;
+}
+.custom_btn {
+	padding: 10px 25px;
+	border: 1px solid #7B6DFF;
+	border-radius: 8px;
+	background-color: transparent;
+	color: #fff;
+	margin-top: 20px;
+	transition: .5s ease;
+}
+.custom_btn:hover {
+	background-color: #7B6DFF;
+}
+/* Sign Up Section Ends Here */
+/* Footer Section Starts Here */
+footer {
+	padding: 50px 0;
+}
+footer ul li {
+	font-size: 20px;
+}
+footer ul li a:hover {
+	color: #7B6DFF;
+	text-decoration: none;
+}
+/* Footer Section Ends Here */

@@ -1,0 +1,244 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	header {
+		padding: 20px 0;
+	}
+	.custom_brand {
+		text-align: center;
+	}
+	.custom_brand img {
+		width: 90%;
+	}
+	.banner {
+		padding: 50px 0;
+	}
+	.banner_text {
+		margin-top: 0px;
+	}
+	.banner_text h1 {
+		font-size: 40px;
+		text-align: center;
+	}
+	.banner_image {
+		margin: 20px auto;
+		text-align: center;
+	}
+	.banner_app_download {
+		width: 50%;
+		margin: 0 auto;
+	}
+	.feature {
+		padding: 50px 10px;
+	}
+	.feature_image {
+		padding: 20px 0;
+		padding-top: 0px;
+	}
+	.feature_text h1 {
+		font-size: 30px;
+		text-align: center;
+	}
+	.feature_text p {
+		padding: 20px 0;
+		font-size: 18px;
+		text-align: center;
+		padding-bottom: 0;
+	}
+	.download {
+		padding: 50px 0;
+	}
+	.app_download {
+		padding: 50px 0;
+		text-align: center;
+	}
+	.app_download a img {
+		margin: 20px 0;
+		width: 50%;
+	}
+	.signup {
+		padding: 50px 0;
+	}
+	.signup_content h1 {
+		font-size: 25px;
+	}
+	.custom_field {
+		height: 40px;
+		border-radius: 10px;
+		font-size: 20px;
+	}
+	footer {
+		padding: 20px 0;
+	}
+	footer ul li {
+		font-size: 16px;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	header {
+		padding: 20px 0;
+	}
+	.custom_brand {
+		text-align: center;
+	}
+	.custom_brand img {
+		width: 60%;
+	}
+	.banner {
+		padding: 50px 0;
+	}
+	.banner_text {
+		margin-top: 0px;
+	}
+	.banner_text h1 {
+		font-size: 50px;
+		text-align: center;
+	}
+	.banner_image {
+		margin: 30px auto;
+		text-align: center;
+	}
+	.banner_app_download {
+		width: 35%;
+		margin: 0 auto;
+	}
+	.feature {
+		padding: 50px 10px;
+	}
+	.feature_image {
+		padding: 20px 0;
+		padding-top: 0px;
+	}
+	.feature_text h1 {
+		font-size: 32px;
+		text-align: center;
+	}
+	.feature_text p {
+		padding: 20px 0;
+		font-size: 19px;
+		text-align: center;
+		padding-bottom: 0;
+	}
+	.download {
+		padding: 50px 0;
+	}
+	.app_download {
+		padding: 50px 0;
+		text-align: center;
+	}
+	.app_download a img {
+		margin: 20px 0;
+		width: 40%;
+	}
+	.signup {
+		padding: 60px 0;
+	}
+	.signup_content h1 {
+		font-size: 28px;
+	}
+	.custom_field {
+		height: 50px;
+		border-radius: 10px;
+		font-size: 22px;
+	}
+	footer {
+		padding: 20px 0;
+	}
+	footer ul li {
+		font-size: 18px;
+	}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	header {
+		padding: 15px 0;
+	}
+	.custom_brand {
+		text-align: center;
+	}
+	.custom_brand img {
+		width: 45%;
+	}
+	.banner {
+		padding: 15px 0;
+	}
+	.banner_text h1 {
+		font-size: 65px;
+	}
+	.feature {
+		padding: 70px 0;
+	}
+	.feature_image {
+		padding: 30px 0;
+	}
+	.feature_text h1 {
+		font-size: 30px;
+	}
+	.feature_text p {
+		padding: 20px 0;
+		font-size: 17px;
+		padding-bottom: 0;
+	}
+	.download {
+		padding: 70px 0;
+	}
+	.app_download {
+		padding: 90px 0;
+	}
+	.signup {
+		padding: 70px 0;
+	}
+	.signup_content h1 {
+		font-size: 28px;
+	}
+	.custom_field {
+		height: 45px;
+		border-radius: 10px;
+		font-size: 22px;
+	}
+	footer {
+		padding: 30px 0;
+	}
+	footer ul li {
+		font-size: 18px;
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.banner_text h1 {
+		font-size: 70px;
+	}
+	.feature {
+		padding: 80px 0;
+	}
+	.feature_text {
+		margin: 0 auto;
+	}
+	.feature_text h1 {
+		font-size: 36px;
+	}
+	.feature_text p {
+		font-size: 22px;
+		padding-bottom: 0;
+	}
+	.feature_image {
+		padding: 10px 0;
+		margin: 0 auto;
+	}
+	.download {
+		padding: 80px 0;
+	}
+	.app_download {
+		padding: 100px 0;
+	}
+	.signup {
+		padding: 80px 0;
+	}
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
